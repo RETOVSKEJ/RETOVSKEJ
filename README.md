@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 _My name is Michał and I'm aspiring to be a Full-stack developer.
-I'm from Poland, currently studying Computer Science at Wyższa Szkoła Bankowa in Warsaw. I'm passionate about game and web application development and am working as Full-stack Developer and on my own projects._
+I'm from Poland, currently studying Computer Science at Wyższa Szkoła Bankowa in Warsaw. I'm passionate about game and web application development and I'm working on my own projects.
 
 You can find me on Instagram, or on LinkedIn.
 Or you can checkout my portfolio: 
