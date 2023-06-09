@@ -28,7 +28,8 @@ Or you can checkout my portfolio:
 
 
 ## 👨‍💻Projects
-+ TanieZarcie.pl
++ TanieZarcie
++ FragFeed
 + Portfolio
 + AutomateApp
 
