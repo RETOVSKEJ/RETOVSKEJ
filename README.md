@@ -4,7 +4,7 @@ _My name is Michał and I'm aspiring to be a Full-stack developer.
 I'm from Poland, currently studying Computer Science at Wyższa Szkoła Bankowa in Warsaw. I'm passionate about web application development and I'm working on my own projects._
 
 You can find me on Instagram, or on LinkedIn.
-Or you can checkout my portfolio: 
+Or you can checkout my portfolio: [Portfolio Website](https://michalsilski.vercel.app/pl)
 
 ## 🛠️Technology
 
@@ -31,7 +31,7 @@ Or you can checkout my portfolio:
 + TanieZarcie
 + FragFeed
 + Portfolio
-+ AutomateApp
++ Small Python Desktop apps with PySide6
 
 📈 **GitHub Stats**
 
