@@ -17,8 +17,11 @@ Or you can checkout my portfolio: [Portfolio Website](https://michalsilski.verce
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" alt="Git" style="width: 100px; height: 100px;">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" alt="GitHub" style="width: 100px; height: 100px;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/410px-Vitejs-logo.svg.png?20220412224743" alt="Vite" style="width: 100px; height: 100px;">
 &nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" alt="NPM" style="width: 100px; height: 100px;">
+&nbsp;&nbsp;<img src="https://getlogovector.com/wp-content/uploads/2021/01/yarn-package-manager-logo-vector.png" alt="Yarn" style="width: 100px; height: 100px;">
 &nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VSC" style="width: 100px; height: 100px;">
 &nbsp;&nbsp;<img src="https://camo.githubusercontent.com/a2ebaaedf9af41416a2717b3a28f405b39535397f4463c5c5119146c84c240f9/68747470733a2f2f706f73746373732e6f72672f6c6f676f2e737667" alt="PostCSS" style="width: 100px; height: 100px;">
+
+
 
 ### Basic knowledge:
 
