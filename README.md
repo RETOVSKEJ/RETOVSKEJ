@@ -29,7 +29,7 @@ Or you can checkout my portfolio: [Portfolio Website](https://michalsilski.verce
 + [TanieZarcie](https://taniezarcie.vercel.app/)
 + [FragFeed](https://fragfeed.lm.r.appspot.com/)
 + [Portfolio](https://michalsilski.vercel.app/pl)
-+ Small Python Desktop apps with PySide6
++ *InProgress...*
 
 📈 **GitHub Stats**
 
