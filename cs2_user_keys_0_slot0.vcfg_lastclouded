@@ -1,0 +1,19 @@
+"config"
+{
+	"bindings"
+	{
+		"v"		"<unbound>"
+		"SPACE"		"+jump"
+		"MWHEELDOWN"		"+jump"
+		"0"		"<unbound>"
+		"z"		"slot10"
+		"8"		"<unbound>"
+		"x"		"<unbound>"
+		"7"		"<unbound>"
+		"MOUSE4"		"slot7"
+		"MOUSE1"		"+attack"
+		"MOUSE5"		"slot8"
+		"ALT"		"noclip"
+		"c"		"+voicerecord"
+	}
+}
